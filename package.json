@@ -1,0 +1,8 @@
+{
+  "name": "nginx-test-upstreams",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "^4.12.4",
+    "request": "^2.57.0"
+  }
+}
