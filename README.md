@@ -3,7 +3,7 @@
 How to test
 
 1. clone the repo
-2. copy test-upstream conf to your nginx/openresty conf.d folder
+2. copy test-upstream conf to your nginx/openresty conf.d folder, and restart nginx/openresty
 3. in one pane: `node upstream.js 8800`
 4. in another pane: `node upstream.js 8801`
 5. in the last pane: `node client.js`
